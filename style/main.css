@@ -27,10 +27,7 @@ header .container {
 }
 
 header .logo {
-    margin-left: 5px;
-    color: var(--vermelha);
-    font-family: 'Arial Black';
-    font-size: 40px;
+    width: 25%;
 }
 
 header nav a {
